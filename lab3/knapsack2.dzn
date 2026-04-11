@@ -1,4 +1,5 @@
 ITEM = _(1..5);
-capacity = 200;
+knapsack_n = 3;
+capacities = [100, 200, 50];
 profits = [1300,1000,520,480,325];
 weights = [90,72,43,40,33];
