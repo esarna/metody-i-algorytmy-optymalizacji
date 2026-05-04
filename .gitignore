@@ -29,3 +29,9 @@ JuliaLocalPreferences.toml
 
 # lab3 - problems
 /lab3/problems_stage4/
+
+# pycharm
+/.idea
+
+#claude
+/.claude
