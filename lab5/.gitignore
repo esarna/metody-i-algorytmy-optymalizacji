@@ -1,3 +1,6 @@
 .venv-pr
 .venv
 __pycache__/
+
+/.quarto/
+**/*.quarto_ipynb
